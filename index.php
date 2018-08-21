@@ -1,8 +1,8 @@
 [core]
-	repositoryformatversion = 1
+	repositoryformatversion = 0
 	filemode = false
 	bare = false
-	logallrefupdates = false
+	logallrefupdates = true
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
